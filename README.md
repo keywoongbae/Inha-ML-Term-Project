@@ -1,4 +1,4 @@
-# Inha-Advanced-Machine-Learning
+# Inha-ML-Term-Project
 
 ## Introduction
 

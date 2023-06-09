@@ -14,7 +14,7 @@
 | 지도학습    | [ResNet](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) |
 |             | [DRN](https://openaccess.thecvf.com/content_cvpr_2017/html/Yu_Dilated_Residual_Networks_CVPR_2017_paper.html) |
 |             | [EfficientNet](http://proceedings.mlr.press/v97/tan19a.html) |
-| 비지도학습  | [Deep Convolutional GAN(DCGAN)](Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks) |
+| 비지도학습  | [Deep Convolutional GAN(DCGAN)](https://arxiv.org/abs/1511.06434) |
 |             | [Diffusion Generative Model(DDPM)](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html) |
 | 준지도학습  | [Meta Pseudo Labels](https://openaccess.thecvf.com/content/CVPR2021/html/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.html) |
 

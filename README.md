@@ -2,7 +2,7 @@
 
 ## Introduction
 
-본 프로젝트는 [허영범](https://sites.google.com/inha.ac.kr/orail/home?authuser=0) 교수님의 고급기계학습 수업과정에서 진행한 Term Project 입니다. 인하대학교 산업경영공학과에 재학 중인 [배기웅](https://keywoongbae.github.io/), 홍상호, 공준식, 김수형이 진행하였습니다.
+본 프로젝트는 2023년 3월 28일부터 2023년 6월 13일까지 [허영범](https://sites.google.com/inha.ac.kr/orail/home?authuser=0) 교수님의 고급기계학습 수업과정에서 진행한 Term Project 입니다. 인하대학교 산업경영공학과에 재학 중인 [배기웅](https://keywoongbae.github.io/), 홍상호, 공준식, 김수형이 진행하였습니다.
 
 **핵심 문제** : CNN계열 딥러닝 모델을 이용해서 CIFAR-10 데이터 분류하기
 
